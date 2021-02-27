@@ -1,0 +1,2 @@
+java.lang.ArithmeticException: / by zero
+	at com.edu.spring.springboot.bean.exec.main(exec.java:9)
